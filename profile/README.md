@@ -9,25 +9,25 @@
   Passionate about Android development, open source projects, and exploring modern technologies.
 </p>
 
-## <img src="https://api.iconify.design/material-symbols/build-rounded.svg" width="20"/> Skills
+## Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,gradle,androidstudio" alt="Skills"/>
 </p>
 
-## <img src="https://api.iconify.design/material-symbols/menu-book-rounded.svg" width="20"/> Currently Learning
+## Currently Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,python,html,css,js" alt="Learning"/>
 </p>
 
-## <img src="https://api.iconify.design/material-symbols/person-rounded.svg" width="20"/> About Me
+## About Me
 
 Android developer focused on the Java and Gradle ecosystem.  
 Interested in mobile development, tooling, automation, and open source projects.
 
 Currently learning **Kotlin**, **Python**, and **Web Development** while exploring modern technologies.
 
-## <img src="https://api.iconify.design/material-symbols/link-rounded.svg" width="20"/> Links
+## Links
 
 GitHub: [@Xcepters](https://github.com/Xcepters)
