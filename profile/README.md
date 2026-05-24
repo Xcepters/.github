@@ -18,7 +18,7 @@
 ## Currently Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,html,css,js" alt="Learning"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,python,html,css,js,c,c++" alt="Learning"/>
 </p>
 
 ## About Me
