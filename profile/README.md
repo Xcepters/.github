@@ -26,7 +26,7 @@
 Android developer focused on the Java and Gradle ecosystem.  
 Interested in mobile development, tooling, automation, and open source projects.
 
-Currently learning **Kotlin**, **Python**, and **Web Development** while exploring modern technologies.
+Currently learning **Kotlin**, **Python**, **C**, **C++** and **Web Development** while exploring modern technologies.
 
 ## Links
 
